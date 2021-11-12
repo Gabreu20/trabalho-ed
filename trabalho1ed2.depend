@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1635812124 source:d:\github\trabalho1ed2\main.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+	<string>
+	<databaseArquitetura.h>
+
+1635277185 source:d:\github\trabalho1ed2\src\no.cpp
+	"no.h"
+
+1635290709 d:\github\trabalho1ed2\include\no.h
+	<iostream>
+	<string>
+
+1635812126 d:\github\trabalho1ed2\include\databasearquitetura.h
+	<iostream>
+	<string>
+	<no.h>
+
+1635812069 source:d:\github\trabalho1ed2\src\databasearquitetura.cpp
+	"databaseArquitetura.h"
+	<no.h>
+	<iostream>
+	<string>
+	<fstream>
+	<sstream>
+
